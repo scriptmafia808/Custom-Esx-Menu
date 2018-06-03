@@ -5,8 +5,8 @@
 }
 
 @font-face {
-  font-family: angrybirds;
-  src: url('../fonts/angrybirds.ttf');
+  font-family: pcdown;
+  src: url('../fonts/pcdown.ttf');
 }
 
 
@@ -73,7 +73,7 @@
 }
 
 .menu .head {
-  font-family     : angrybirds;
+  font-family     : pcdown
   background-color: #f52d2d;
   text-align      : center;
   height          : 40px;
