@@ -73,7 +73,7 @@
 }
 
 .menu .head {
-  font-family     : pcdown
+  font-family     : pcdown;
   background-color: #f52d2d;
   text-align      : center;
   height          : 40px;
